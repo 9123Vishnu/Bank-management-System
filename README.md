@@ -46,9 +46,9 @@ This project simulates basic banking operations such as account creation, deposi
 
 `Bank_Management_System.java' [Code Link](https://github.com/9123Vishnu/Bank-management-System/blob/main/Bank_Management_System.java)
 
-`├── Account
-├── AccountRepository
-├── AccountService
-├── BankApplication
-└── Main Class`
+`├── Account`
+`├── AccountRepository`
+`├── AccountService`
+`├── BankApplication`
+`└── Main Class`
 
