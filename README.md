@@ -20,7 +20,6 @@ This project simulates basic banking operations such as account creation, deposi
 
 ## 🛠️ Tech Stack
 
-- :contentReference[oaicite:0]{index=0}
 - Core Java
 - OOP Concepts
 - Collections (`HashMap`)
